@@ -1,0 +1,6 @@
+Welcome to LandLink, {{ first_name }}!
+
+Verify your email address to activate your account:
+{{ verification_url }}
+
+This secure link expires in 24 hours. If you didn't create a LandLink account, you can ignore this email.
